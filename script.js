@@ -62,7 +62,7 @@ const links =[
     link:"info@tibahotels.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/uWdgB8YCtC2WtUuJ8"
   },
     telegram={
