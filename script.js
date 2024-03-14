@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/tibah.png",
+    profile_pic: "./image/",
     profile_logo: "",
 
-    Name: "Tiba Hotels",
+    Name: "Ayyoob",
     designation: "",
-    des_link_text: "@Banglore",
-    des_link: "https://tibahotels.com/",
-    contact: "./contact/tibah.vcf",
+    des_link_text: "@Omanian store",
+    des_link: "",
+    contact: "./contact/Omanian.vcf",
 };
 
 const contact ={
-    contact_no: "+918891691663",
-    whatsapp: "+918891691663",
-    location: "https://maps.app.goo.gl/fbihSjVozLMsA2ys6",
-    email: "tibahotelsbanglore@gmail.com",
+    contact_no: "+971563365123",
+    whatsapp: "+971563365123",
+    location: "",
+    email: "",
 };
 
 const profilelogo=[
@@ -30,11 +30,11 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/profile.php?id=61556412908936&amp;mibextid=LQQJ4d"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/tiba.hotel?igsh=MTc5a2oyN2wzcXJ5Yg%3D%3D&amp;utm_source=qr"
   },
     skype={
@@ -58,7 +58,7 @@ const links =[
     link:"https://x.com/shahinpkt/"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"info@tibahotels.com"
   },
     google={
